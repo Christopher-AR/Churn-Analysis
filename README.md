@@ -43,6 +43,7 @@ Increase user retention
 
 # Dashboard Preview
 
+https://github.com/Christopher-AR/Churn-Analysis/blob/main/Churn%20Analysis.png
 
 # Credits
 
